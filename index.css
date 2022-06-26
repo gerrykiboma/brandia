@@ -123,6 +123,7 @@ section{
   display: grid;
   grid-template-columns: repeat(1,1fr);
   align-items: center;
+Max-width: 100%
 }
 
 .home-text h1{
