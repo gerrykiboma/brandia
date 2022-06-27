@@ -496,10 +496,9 @@ form textarea{
   }
 }
 
- body{
-    width: 100vw;
-    overflow-x: hidden;
-     min-height: 100vh;
+html,body{
+  overflow-x: hidden;
+  max-width: 100%;
 }
 
 
